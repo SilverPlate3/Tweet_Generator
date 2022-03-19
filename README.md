@@ -9,7 +9,7 @@ unlike their project, the program takes into consideration the number of occurre
 # Text requirements:
 * Every line must end with a dot. There could be many sentences with a dot in 1 line. (see text examples)
 * Characters must be “understood” by your compiler, I found out that my GCC compiler had issue with many characters including dashes. It will replace these characters with garbage values.
-* You must know what’s the character length of the longest line and word in the text and update it in the program, under the corresponding #define
+* You must know what’s the character length of the longest line and longest word in the text. Update it in the program, under the corresponding #define
 #define LENGTH_WORD_MAX XYZ
 #define LENGTH_SENTENCE_MAX XYZ
 I provided these details in the first lines of each text.
