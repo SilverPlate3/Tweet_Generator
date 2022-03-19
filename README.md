@@ -1,0 +1,2 @@
+# Tweet_Generator
+Tweet generator in C. I found the requirements of a project given by “Hebrew university in Jerusalem” in C and decided to give it a try.  The project relies on nested structures and nested dynamic arrays combined.   After finishing that project with their guiding lines, I wanted to modify a few things and improve the final product.  unlike their project, the program takes into consideration the number of occurrences of each word and number of occurrences  of their following words in the text when actually choosing the next words to tweet.
