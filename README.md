@@ -17,7 +17,7 @@ I provided these details in the first lines of each text.
 
 # Important to acknowledge:
 * Must be compiled into an .exe (I used GCC).
-* Command line arguments should be: {number of tweets} {path to .txt file}  Example: a.exe 3 brady.txt
+* Command line arguments should be: {number of tweets} {path to .txt file}     **Example** : a.exe 3 brady.txt
 * If your using the text’s I provided, don’t expect tweets with much logic… I just gave it random sentences that I copied from short stories & other .txt files. 
 Nevertheless, this script should work on every .txt file that complies with the text requirements mentioned above.
 
